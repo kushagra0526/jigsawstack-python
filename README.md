@@ -80,7 +80,7 @@ Join JigsawStack community on [Discord](https://discord.gg/dj8fMBpnqd) to connec
 ## Related Projects
 
 - [Docs](https://jigsawstack.com/docs)
-- [Javascript SDK](https://github.com/JigsawStack/jigsawstack-js)
+- [Javascript SDK](https://github.com/InterfazeAI/jigsawstack-js)
 
 ## Contributing
 
